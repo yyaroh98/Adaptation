@@ -8,6 +8,8 @@
   margin: 0 auto;
   /* margin: calc(100vh / 2 - 630px / 2) auto 0; */
   padding-bottom: 58px;
+  padding: 0 15px;
+  
 }
 
 .customers-subcontainer h2 {
